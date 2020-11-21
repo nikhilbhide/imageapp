@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "imageapp6ba865db": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
